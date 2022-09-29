@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+executable/build/*
+executable/dist/*
+executableOnefile/build/*
+executableOnefile/dist/*
