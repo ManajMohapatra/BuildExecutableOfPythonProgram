@@ -26,5 +26,4 @@ It is recommended to use virtual environment but not necessary. You need to run 
 2. Run buildExecOnefile.bat file. It will create build and dist folder inside executableOnefile folder.
 3. You can run mainOnefile.exe file inside executableOne/dist folder.
 4. It will create a temporary folder with name _MEIxxxxx (**Example:** _MEI93842).
-5. It will ask for images path, so please enter relative path (**Example:** ./_MEI93842/images/).
->Note: Default path won't work here.
+5. It will ask for images path, so press ENTER to select default path. Now the default path will be images folder inside temporary folder with name _MEIxxxxx.
