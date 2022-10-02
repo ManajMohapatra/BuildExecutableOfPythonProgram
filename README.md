@@ -27,3 +27,9 @@ It is recommended to use virtual environment but not necessary. You need to run 
 3. You can run mainOnefile.exe file inside executableOne/dist folder.
 4. It will create a temporary folder with name _MEIxxxxx (**Example:** _MEI93842).
 5. It will ask for images path, so press ENTER to select default path. Now the default path will be images folder inside temporary folder with name _MEIxxxxx.
+
+### Create Installer
+1. You need to complete *Create Installer with Supporting Files* section.
+2. Install [Inno Setup](https://jrsoftware.org/isdl.php) in your system.
+3. Go to Installer folder and open installer.iss file using *Inno Setup Compiler* App.
+4. Now run the script using F9 and it will create Image_viewer.exe inside Installer folder.
